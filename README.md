@@ -23,7 +23,7 @@
       ![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
       <a href="https://www.instagram.com/ccarolfp/" target="_blank">
       ![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> 
-      <a href="https://carolfreitas101996.medium.com/" target="_blank">
+      <a href="https://carolfreitas101996.medium.com/card-responsivo-com-3-linhas-de-css-5d14d5d301ee" target="_blank">
       ![Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
       <a href="https://carolfreitas101996@gmail.com" target="_blank">
       ![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
