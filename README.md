@@ -18,13 +18,16 @@
 :thought_balloon: Let's talk about **Front-end  _and_ Curiosities of the world**
 
 :postbox: Meet me at... 
-<div style="display: inline_block">
-![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<a href="https://www.instagram.com/ccarolfp/"> 
-![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> 
-<a href="https://carolfreitas101996.medium.com/"> 
-![Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
-</div><br>
+      <div style="display: inline_block">
+      <a href="https://www.linkedin.com/in/caroline-freitas-070347111/" target="_blank">
+      ![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+      <a href="https://www.instagram.com/ccarolfp/" target="_blank">
+      ![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> 
+      <a href="https://carolfreitas101996.medium.com/" target="_blank">
+      ![Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> 
+      <a href="https://carolfreitas101996@gmail.com" target="_blank">
+      ![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+      </div><br>
             
 :alien: Curiosity:
 <ul>
@@ -35,5 +38,4 @@
 </ul>
 
 :warning:	 TIP: **Be the change you want in the world**:green_heart:
-
 
