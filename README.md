@@ -15,8 +15,6 @@
   <img align="center" alt="Carol-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </div><br>
 
-:thought_balloon: Let's talk about **Front-end  _and_ Curiosities of the world**
-
 :postbox: Meet me at... 
       <div style="display: inline_block">
       <a href="https://www.linkedin.com/in/caroline-freitas-070347111/" target="_blank">
@@ -28,7 +26,8 @@
       <a href="https://carolfreitas101996@gmail.com" target="_blank">
       ![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
       </div><br>
-            
+:thought_balloon: Let's talk about **Front-end  _and_ Curiosities of the world**
+    
 :alien: Curiosity:
 <ul>
     <li>:parachute: Extreme sports practitioner</li>
