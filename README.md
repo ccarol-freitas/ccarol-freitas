@@ -1,7 +1,7 @@
 ### Hello :v: :kissing_smiling_eyes:	, I'm _Carol Freitas_
 ### I'm in :heart: with the front-end and I'm always looking to delve into new curiosities</h3>
 
-:mag: I’m currently learning **accessibility through the front end, typescript, best practices, react.js, micro front-end**
+:mag: I’m currently learning **accessibility through the front end, typescript, best practices, micro front-end, UX and Svelte**
 
 :bulb: I have knowledge and experience with 
 <div style="display: inline_block">
